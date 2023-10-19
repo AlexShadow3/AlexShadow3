@@ -11,8 +11,8 @@ My professional github account... [Alexandre](www.github.com/AlexandreBobis)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshadow3)](https://github.com/anuraghazra/github-readme-stats)
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexshadow3&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexshadow3&show_icons=true&theme=radical" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexshadow3" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexshadow3" />
 </a>
