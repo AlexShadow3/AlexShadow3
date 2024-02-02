@@ -1,4 +1,4 @@
-#👋 Hello, I’m AlexShadow3
+# Hello, I’m AlexShadow3 👋
 
 - 🏫 I’m a student
 - 🌱 I’m learning JS and its useful libraries
