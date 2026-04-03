@@ -2,7 +2,7 @@
 
 <!-- <a href="https://app.daily.dev/alexshadow"><img align="right" src="https://api.daily.dev/devcards/af62c915155e483e8b78c23fcdb12940.png?r=20i" width="300" alt="Alexandre Bobis's Dev Card"/></a> -->
 <!-- <a href="https://app.daily.dev/alexshadow"><img align="right" src="https://api.daily.dev/devcards/v2/6fQdIuzTOc1KV6BSFnxsv.png?type=default&r=i14" width="300" alt="Alexandre Bobis's Dev Card"/></a> -->
-
+<!--
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexshadow3" alt="My Most Used Languages"/>
 </a>
@@ -13,6 +13,6 @@
 <a>
   <img align="center" style="margin-top: 100px" src="https://www.codewars.com/users/AlexShadow/badges/large">
 </a>
-
+-->
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/AlexShadow.png" alt="Your Image Badge" /> 
 ![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4660623) -->
